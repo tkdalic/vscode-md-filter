@@ -29,6 +29,10 @@
     "postinstall": "node ./node_modules/vscode/bin/install",
     "test": "npm run compile && node ./node_modules/vscode/bin/test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tukumo/vscode-md-filter/"
+  },
   "devDependencies": {
     "typescript": "^3.3.1",
     "vscode": "^1.1.28",
