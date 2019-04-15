@@ -1,6 +1,6 @@
 # md-filter README
 
-This is the README for your extension "md-filter". After writing up a brief description, we recommend including the following sections.
+Filter markdown by hash header.
 
 ## Features
 
@@ -8,58 +8,26 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+1. 2. 複数ファイルの markdown の用意
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+![feature1](image/feature1.png)
 
-## Requirements
+![feature2](image/feature2.png)
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+3. コマンドを打つ
 
-## Extension Settings
+![feature3](image/feature3.png)
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+4. 絞り込みタグの入力
 
-For example:
+![feature4](image/feature4.png)
 
-This extension contributes the following settings:
+5. 絞り込まれた出力
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+![feature5](image/feature5.png)
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 0.0.1
 
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Test release
